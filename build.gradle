@@ -28,5 +28,6 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile 'junit:junit:4.12'
     testCompile 'org.jsoup:jsoup:1.10.2'
+    compile 'org.jsoup:jsoup:1.10.2'
 }
 
